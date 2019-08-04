@@ -1,4 +1,5 @@
 def (array, string)
-  array.push(string)
-  newarray = string
-end
+  array = newstring
+  array.push(newstring)
+  
+  end
