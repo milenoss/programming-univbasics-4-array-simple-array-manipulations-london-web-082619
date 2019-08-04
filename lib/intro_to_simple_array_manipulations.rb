@@ -1,4 +1,4 @@
-def (array,string)
+def (array, string)
   array = "newstring"
   array.push("newstring")
   
