@@ -1,6 +1,5 @@
-def using_push(Array,String)
-  NewArray = String
-  NewArray.push(String)
-  
+def using_push(array,string)
+  array = newstring
+  array.push(newstring)
 end
   
