@@ -8,4 +8,6 @@ def using_unshift(array,string)
   newarray.unshift(string)
 end
 
-  
+def using_pop(array)
+  array.pop()
+end
