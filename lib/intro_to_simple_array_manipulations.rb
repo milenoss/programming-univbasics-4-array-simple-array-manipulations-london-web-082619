@@ -3,3 +3,9 @@ def using_push(array,string)
   newarray.push(string)
 end
   
+def using_unshift(array,string)
+  newarray =[]
+  newarray.unshift(string)
+end
+
+  
